@@ -1,0 +1,509 @@
+Exporter version: 6.2.3, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  D:\projects\do\tigdrag\assets\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Plane
+		processing begun of material:  BkgColor
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Text
+		processing begun of material:  TextColor
+		num positions      :  216
+		num normals        :  216
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  624
+	processing begun of mesh:  Text.001
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  404
+		num normals        :  404
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1179
+	processing begun of mesh:  Text.002
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  257
+		num normals        :  257
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  759
+	processing begun of mesh:  Text.003
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  141
+		num normals        :  141
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  408
+	processing begun of mesh:  Text.004
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  320
+		num normals        :  320
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  882
+	processing begun of mesh:  Text.005
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  404
+		num normals        :  404
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1179
+	processing begun of mesh:  Text.006
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  216
+		num normals        :  216
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  624
+	processing begun of mesh:  Text.007
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  257
+		num normals        :  257
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  759
+	processing begun of mesh:  Text.008
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  268
+		num normals        :  268
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  798
+	processing begun of mesh:  Text.009
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  232
+		num normals        :  232
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Text.010
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  415
+		num normals        :  415
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1200
+	processing begun of mesh:  Text.011
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  404
+		num normals        :  404
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1179
+	processing begun of mesh:  Text.012
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  257
+		num normals        :  257
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  759
+	processing begun of mesh:  Text.013
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  333
+	processing begun of mesh:  Text.014
+		processing begun of material:  TextColor
+		registered as also a user of material:  TextColor
+		num positions      :  356
+		num normals        :  356
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1023
+	processing begun of mesh:  Cube
+		processing begun of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.001
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		processing begun of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Torus.004
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  2919
+		num normals        :  2919
+		num tangents       :  0
+		num uvs            :  5838
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3456
+	processing begun of mesh:  Cube.019
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.021
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022
+		processing begun of material:  FireColor
+		registered as also a user of material:  FireColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.023
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.024
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.025
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.026
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.027
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		processing begun of material:  WaterColor
+		registered as also a user of material:  WaterColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		processing begun of material:  WoodColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		processing begun of material:  WoodColor
+		registered as also a user of material:  WoodColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.015
+		processing begun of material:  WoodColor
+		registered as also a user of material:  WoodColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017
+		processing begun of material:  WoodColor
+		registered as also a user of material:  WoodColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.018
+		processing begun of material:  WoodColor
+		registered as also a user of material:  WoodColor
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (POINT):  Point Light
+========= Writing of JSON file started =========
+	writing mesh:  Plane
+	writing mesh:  Text
+	writing mesh:  Text.001
+	writing mesh:  Text.002
+	writing mesh:  Text.003
+	writing mesh:  Text.004
+	writing mesh:  Text.005
+	writing mesh:  Text.006
+	writing mesh:  Text.007
+	writing mesh:  Text.008
+	writing mesh:  Text.009
+	writing mesh:  Text.010
+	writing mesh:  Text.011
+	writing mesh:  Text.012
+	writing mesh:  Text.013
+	writing mesh:  Text.014
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.004
+	writing mesh:  Cube.006
+	writing mesh:  Cube.007
+	writing mesh:  Cube.010
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.016
+	writing mesh:  Torus.004
+	writing mesh:  Cube.019
+	writing mesh:  Cube.020
+	writing mesh:  Cube.021
+	writing mesh:  Cube.022
+	writing mesh:  Cube.023
+	writing mesh:  Cube.024
+	writing mesh:  Cube.025
+	writing mesh:  Cube.026
+	writing mesh:  Cube.027
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.005
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.011
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.017
+	writing mesh:  Cube.018
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.8673 secs
